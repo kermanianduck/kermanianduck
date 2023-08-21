@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey there 👋<br>this account created just for complete my upwork account<br>you can see my projects in this url:<br>(https://github.com/orgs/The-Duck-Group/repositories)
+hey there 👋<br>this account created just for complete my upwork account<br>you can see my projects in this url:<br>[(https://github.com/orgs/The-Duck-Group/repositories)](https://github.com/orgs/The-Duck-Group/repositories)
 
 
 ## 🌐 Socials:
